@@ -4,7 +4,7 @@ Download dashboard from here:
 
 This dashboard uses Graylog plugin from Telegraf.
 
-First, create a token to interect with the Graylog API: [http://docs.graylog.org/en/2.2/pages/configuration/rest_api.html](http://docs.graylog.org/en/2.2/pages/configuration/rest_api.html)
+First, create a token to interact with the Graylog API: [http://docs.graylog.org/en/2.2/pages/configuration/rest_api.html](http://docs.graylog.org/en/2.2/pages/configuration/rest_api.html)
 
 Then, create a file "/etc/telegraf/telegraf.d/graylog.conf" with this content:
 ```
