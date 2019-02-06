@@ -33,3 +33,6 @@ Then, create a file "/etc/telegraf/telegraf.d/graylog.conf" with this content:
   password = "token"
   insecure_skip_verify = true
 ```
+
+Screenshot:
+![Graylog Dashboard](https://raw.githubusercontent.com/allangood/grafana/master/assets/Graylog_Dashboard.jpg "Graylog Dashboard")
